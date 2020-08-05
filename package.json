@@ -1,0 +1,8 @@
+{
+  "name": "tamagochi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jgamaraalv/tamagochi.git",
+  "author": "João Amaral <guilive13@gmail.com>",
+  "license": "MIT"
+}
