@@ -6,7 +6,7 @@
     "dev": "parcel src/index.html"
   },
   "repository": "https://github.com/jgamaraalv/tamagochi.git",
-  "author": "João Amaral <guilive13@gmail.com>",
+  "author": "João Amaral <gui_csa12@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.6.0",
@@ -15,5 +15,8 @@
     "jest": "^26.2.2",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.0.5"
-  }
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
 }
