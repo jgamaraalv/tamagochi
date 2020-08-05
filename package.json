@@ -2,7 +2,13 @@
   "name": "tamagochi",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
   "repository": "https://github.com/jgamaraalv/tamagochi.git",
   "author": "João Amaral <guilive13@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
